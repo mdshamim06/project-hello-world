@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.mxbeans;
+package com.gmail.hidekishima.mbeans;
 
 import java.lang.management.ManagementFactory;
 import java.rmi.registry.LocateRegistry;

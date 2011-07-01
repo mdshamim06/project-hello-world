@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.mxbeans;
+package com.gmail.hidekishima.mbeans;
 
 import javax.management.MBeanServerConnection;
 import javax.management.ObjectInstance;
