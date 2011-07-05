@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.xml;
+package com.gmail.hidekishima.helloworld.xml;
 
 import java.io.ByteArrayInputStream;
 import java.io.FileNotFoundException;

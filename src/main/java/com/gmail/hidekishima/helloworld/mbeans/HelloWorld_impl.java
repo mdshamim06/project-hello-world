@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.mbeans;
+package com.gmail.hidekishima.helloworld.mbeans;
 
 public class HelloWorld_impl implements HelloWorldInterface {
 

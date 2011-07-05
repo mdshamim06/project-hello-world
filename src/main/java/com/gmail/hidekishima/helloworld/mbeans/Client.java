@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.mbeans;
+package com.gmail.hidekishima.helloworld.mbeans;
 
 import javax.management.MBeanServerConnection;
 import javax.management.ObjectInstance;

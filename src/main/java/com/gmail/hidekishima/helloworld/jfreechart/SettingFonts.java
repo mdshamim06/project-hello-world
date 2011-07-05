@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.jfreechart;
+package com.gmail.hidekishima.helloworld.jfreechart;
 
 import java.awt.Font;
 
