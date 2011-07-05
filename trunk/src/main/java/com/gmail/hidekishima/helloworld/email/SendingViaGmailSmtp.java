@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.email;
+package com.gmail.hidekishima.helloworld.email;
 
 import java.util.Properties;
 

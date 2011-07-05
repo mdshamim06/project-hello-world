@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.sesame;
+package com.gmail.hidekishima.helloworld.sesame;
 
 import java.util.List;
 

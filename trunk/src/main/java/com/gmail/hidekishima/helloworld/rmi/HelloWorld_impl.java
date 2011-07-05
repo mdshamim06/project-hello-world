@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.rmi;
+package com.gmail.hidekishima.helloworld.rmi;
 
 import java.rmi.RemoteException;
 

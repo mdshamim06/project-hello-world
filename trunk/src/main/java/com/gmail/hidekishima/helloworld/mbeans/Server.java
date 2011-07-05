@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.mbeans;
+package com.gmail.hidekishima.helloworld.mbeans;
 
 import java.lang.management.ManagementFactory;
 import java.rmi.registry.LocateRegistry;

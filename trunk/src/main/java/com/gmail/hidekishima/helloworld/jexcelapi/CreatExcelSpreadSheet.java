@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.jexcelapi;
+package com.gmail.hidekishima.helloworld.jexcelapi;
 
 import java.io.FileOutputStream;
 import java.io.OutputStream;

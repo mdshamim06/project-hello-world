@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.json;
+package com.gmail.hidekishima.helloworld.json;
 
 import org.json.JSONArray;
 import org.json.JSONException;

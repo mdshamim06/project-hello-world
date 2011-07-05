@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.uima;
+package com.gmail.hidekishima.helloworld.uima;
 
 import java.util.ArrayList;
 import java.util.List;

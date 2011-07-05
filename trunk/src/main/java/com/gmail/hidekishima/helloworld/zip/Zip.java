@@ -1,4 +1,4 @@
-package com.gmail.hidekishima.zip;
+package com.gmail.hidekishima.helloworld.zip;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
